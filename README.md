@@ -38,13 +38,13 @@ I'm a passionate web developer with a background in fashion design. Currently, I
 I actively contribute to projects within my organization, and here are some highlights of my contributions:
 
 - **Top Repositories:**  
-  - [**Epitweet**](https://github.com/EpitechWebAcademiePromo2026/W-WEB-090-PAR-1-1-academie-aimee1.mussard) – A web application that allows users to share and view posts. Contributed to the backend and frontend development, implementing key features for a responsive user interface.  
-  - [**Neo-Music**](https://github.com/EpitechWebAcademiePromo2026/W-WEB-090-PAR-1-1-spotify-valeria.girtie) – A music app that helps users discover and enjoy new tracks. Built using React, Node.js, TypeScript, and Docker. Contributed to the backend development and integration of APIs to retrieve music data.  
-  - [**PiePHP**](https://github.com/EpitechWebAcademiePromo2026/W-PHP-502-PAR-2-1-PiePHP-aimee1.mussard) – A PHP-based project focused on building an MVC framework. Contributed to the development of core framework components and optimized database interactions for better performance.  
-  - [**Y2Kalculator**](#) – A custom calculator application capable of evaluating mathematical expressions with correct operator precedence. Built in PHP with a focus on parsing logic and performance optimization.  
-  - [**Apollo**](#) – A full-stack e-commerce platform with product management, cart, checkout functionalities and integrated secure payment processing. Developed using Symfony, MySQL, React JS, with the help of the Shippo API.
-  - [**VibeOn**](#) – An IRC-style real-time chat application built with Node.js, Express.js, and WebSockets. Contributed to backend message handling, real-time user events, and UI improvements for chat rooms.
-  - [**H5AI**](#) – A Java-based file indexer providing a modern and responsive directory listing interface with sorting, search, and preview capabilities.
+  - [**Epitweet**](https://github.com/aimeemussard/Epitweet.git) – A web application that allows users to share and view posts. Contributed to the backend and frontend development, implementing key features for a responsive user interface.  
+  - [**NeoMusic**](https://github.com/aimeemussard/NeoMusic.git) – A music app that helps users discover and enjoy new tracks. Built using React, Node.js, TypeScript, and Docker. Contributed to the backend development and integration of APIs to retrieve music data.  
+  - [**PiePHP**](https://github.com/aimeemussard/PiePHP.git) – A PHP-based project focused on building an MVC framework. Contributed to the development of core framework components and optimized database interactions for better performance.  
+  - [**Y2Kalculator**](https://github.com/aimeemussard/Y2Kalculator.git) – A custom calculator application capable of evaluating mathematical expressions with correct operator precedence. Built in PHP with a focus on parsing logic and performance optimization.  
+  - [**Apollo**](#https://github.com/aimeemussard/Apollo.git) – A full-stack e-commerce platform with product management, cart, checkout functionalities and integrated secure payment processing. Developed using Symfony, MySQL, React JS, with the help of the Shippo API.
+  - [**VibeOn**](#https://github.com/aimeemussard/Vibeon.git) – An IRC-style real-time chat application built with Node.js, Express.js, and WebSockets. Contributed to backend message handling, real-time user events, and UI improvements for chat rooms.
+  - [**H5AI**](#https://github.com/aimeemussard/H5AI.git) – A Java-based file indexer providing a modern and responsive directory listing interface with sorting, search, and preview capabilities.
 
 
 ## 💬 Get in Touch
