@@ -4,7 +4,7 @@ I'm a passionate web developer with a background in fashion design. Currently, I
 
 ## 🔭 Current Projects
 
-- **Apollo** – A full-stack e-commerce platform with product management, cart, and checkout functionalities. Built using Laravel, MySQL, and integrated with secure payment processing.  
+- **Apollo** – A full-stack e-commerce platform with product management, cart, checkout functionalities and integrated secure payment processing. Developed using Symfony, MySQL, React JS, with the help of the Shippo API.
 
 ## 💻 Technologies I Love
 
@@ -42,9 +42,9 @@ I actively contribute to projects within my organization, and here are some high
   - [**NeoMusic**](https://github.com/aimeemussard/NeoMusic.git) – A music app that helps users discover and enjoy new tracks. Built using React, Node.js, TypeScript, and Docker. Contributed to the backend development and integration of APIs to retrieve music data.  
   - [**PiePHP**](https://github.com/aimeemussard/PiePHP.git) – A PHP-based project focused on building an MVC framework. Contributed to the development of core framework components and optimized database interactions for better performance.  
   - [**Y2Kalculator**](https://github.com/aimeemussard/Y2Kalculator.git) – A custom calculator application capable of evaluating mathematical expressions with correct operator precedence. Built in PHP with a focus on parsing logic and performance optimization.  
-  - [**Apollo**](#https://github.com/aimeemussard/Apollo.git) – A full-stack e-commerce platform with product management, cart, checkout functionalities and integrated secure payment processing. Developed using Symfony, MySQL, React JS, with the help of the Shippo API.
-  - [**VibeOn**](#https://github.com/aimeemussard/Vibeon.git) – An IRC-style real-time chat application built with Node.js, Express.js, and WebSockets. Contributed to backend message handling, real-time user events, and UI improvements for chat rooms.
-  - [**Atlas**](#https://github.com/aimeemussard/Atlas.git) – A Java-based file indexer providing a modern and responsive directory listing interface with sorting, search, and preview capabilities.
+  - [**PixelGloss**](https://github.com/aimeemussard/PixelGloss.git) – A PHP-powered sprite sheet generator that compiles multiple images into a single optimized sheet, complete with a ready-to-use CSS mapping. Implemented recursive directory scanning, customizable padding, size overrides, and flexible output options, with plans for a Y2K-inspired drag-and-drop UI.
+  - [**VibeOn**](https://github.com/aimeemussard/Vibeon.git) – An IRC-style real-time chat application built with Node.js, Express.js, and WebSockets. Contributed to backend message handling, real-time user events, and UI improvements for chat rooms.
+  - [**Atlas**](https://github.com/aimeemussard/Atlas.git) – A Java-based file indexer providing a modern and responsive directory listing interface with sorting, search, and preview capabilities.
 
 
 ## 💬 Get in Touch
