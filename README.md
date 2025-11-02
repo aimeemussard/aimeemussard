@@ -58,7 +58,7 @@ Feel free to reach out if you want to collaborate, chat about web development, o
 
 ## 🌸 Fun Facts 
 
-- I'm a huge fan of podcasts! My current favorites are The Cutroom Floor/A Bit Fruity/the H3 Podcast.
+- I'm a huge fan of podcasts! 
 - I have a degree in fashion design and I love drawing, experiencing with new sewing techniques and pattern making.
 
 <!--## My GitHub Stats
