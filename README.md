@@ -65,5 +65,5 @@ Feel free to reach out if you want to collaborate, chat about web development, o
 
 <!--## My GitHub Stats
 
--->
 [Aimée's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimeemussard&show_icons=true&count_private=true&hide_title=true)
+-->
