@@ -60,7 +60,7 @@ Feel free to reach out if you want to collaborate, chat about web development, o
 ## 🌸 Fun Facts 
 
 - I love to listen to fashion and pop culture related podcasts
-- I have a degree in fashion design and I love drawing, experiencing with new sewing techniques and pattern making.
+- I have a degree in fashion design and I love drawing, experiencing with new sewing techniques and pattern making
 - I enjoy hiking and exploring the countryside during the summertime
 
 <!--## My GitHub Stats
