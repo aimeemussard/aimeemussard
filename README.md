@@ -4,7 +4,7 @@ I'm a passionate web developer with a background in fashion design. Currently, I
 
 ## 🔭 Current Projects
 
-- **Apollo** – A full-stack e-commerce platform with product management, cart, checkout functionalities and integrated secure payment processing. Developed using Symfony, MySQL, React JS, with the help of the Shippo API.
+- **DOLL STUDIO** – DOLL Studio is a cross-platform fashion design and illustration application designed for fashion students, independent designers, and creative professionals. The platform allows users to create moodboards, sketches, silhouettes, color palettes, and fabric libraries while collaborating with other designers in real time. Built with Expo, React Native Web, Express, and Node.js, featuring JWT authentication, role-based access control, Zustand state management, and real-time collaborative workflows.
 
 ## 💻 Technologies I Love
 
@@ -37,7 +37,8 @@ I'm a passionate web developer with a background in fashion design. Currently, I
 
 I actively contribute to projects within my organization, and here are some highlights of my contributions:
 
-- **Top Repositories:**  
+- **Top Repositories:**
+  - [**Apollo**](https://github.com/aimeemussard/Apollo.git) – A full-stack e-commerce platform with product management, cart, checkout functionalities and integrated secure payment processing. Developed using Symfony, MySQL, React JS, with the help of the Shippo API.
   - [**Epitweet**](https://github.com/aimeemussard/Epitweet.git) – A web application that allows users to share and view posts. Contributed to the backend and frontend development, implementing key features for a responsive user interface.  
   - [**NeoMusic**](https://github.com/aimeemussard/NeoMusic.git) – A music app that helps users discover and enjoy new tracks. Built using React, Node.js, TypeScript, and Docker. Contributed to the backend development and integration of APIs to retrieve music data.  
   - [**PiePHP**](https://github.com/aimeemussard/PiePHP.git) – A PHP-based project focused on building an MVC framework. Contributed to the development of core framework components and optimized database interactions for better performance.  
@@ -58,23 +59,11 @@ Feel free to reach out if you want to collaborate, chat about web development, o
 
 ## 🌸 Fun Facts 
 
-- I'm a huge fan of podcasts! 
+- I love to listen to fashion and pop culture related podcasts
 - I have a degree in fashion design and I love drawing, experiencing with new sewing techniques and pattern making.
+- I enjoy hiking during th summertime
 
 <!--## My GitHub Stats
 
-![Aimée's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimeemussard&show_icons=true&count_private=true&hide_title=true)
-
-**aimeemussard/aimeemussard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+[Aimée's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimeemussard&show_icons=true&count_private=true&hide_title=true)
