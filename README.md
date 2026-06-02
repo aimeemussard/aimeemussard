@@ -4,7 +4,7 @@ I'm a passionate web developer with a background in fashion design. Currently, I
 
 ## 🔭 Current Projects
 
-- **DOLL STUDIO** – DOLL Studio is a cross-platform fashion design and illustration application designed for fashion students, independent designers, and creative professionals. The platform allows users to create moodboards, sketches, silhouettes, color palettes, and fabric libraries while collaborating with other designers in real time. Built with Expo, React Native Web, Express, and Node.js, featuring JWT authentication, role-based access control, Zustand state management, and real-time collaborative workflows.
+- **DOLL STUDIO** – DOLL Studio is a cross-platform fashion design and illustration application designed for fashion students, independent designers, and creative professionals. The platform allows users to create moodboards, sketches, silhouettes, color palettes, and fabric libraries while collaborating with other designers in real time. Built with Expo, React Native Web, Express, Node.js, and PostgreSQL featuring JWT authentication, role-based access control, Zustand state management, and real-time collaborative workflows.
 
 ## 💻 Technologies I Love
 
